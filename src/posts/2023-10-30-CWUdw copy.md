@@ -1,7 +1,7 @@
 ---
-title: 'Day 3 of Cape Wrath Ultra'
-description: 'The One Where You Nervously Set Off. Good luck!'
-date: 2023-10-30
+title: 'Day 6 of Cape Wrath Ultra'
+description: 'The One That Is Very Long'
+date: 2023-11-30
 image: './src/assets/images/blog/Sprout1.jpg'
 ---
 

@@ -5,26 +5,18 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Get started',
+      text: 'Notes',
       url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
     },
     {
       text: 'Blog',
       url: '/blog/'
     },
-    {
-      text: 'Style guide',
-      url: '/styleguide/'
-    }
   ],
   bottom: [
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'Disclaimer',
+      url: '/disclaimer/'
     },
     {
       text: 'Privacy',

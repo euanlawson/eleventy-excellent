@@ -11,4 +11,4 @@ tags: 'Cape Wrath Ultra'
 I did not want to clutter the starter with too many features, that you might not need, but I find myself using them frequently for my own projects, so now they are "baked in".
 I will keep the old demo repos for the moment, but they are not maintained and are deprecated.
 
-If you never saw version 1, nevermind.
+If you never saw version 1, nevermind. Test test.

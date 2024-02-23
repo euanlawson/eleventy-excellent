@@ -12,6 +12,10 @@ module.exports = {
       text: 'Blog',
       url: '/blog/'
     },
+    {
+      text: 'Running',
+      url: '/running/'
+    },
   ],
   bottom: [
     {

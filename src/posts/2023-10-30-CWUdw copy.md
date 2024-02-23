@@ -3,6 +3,7 @@ title: 'Day 6 of Cape Wrath Ultra'
 description: 'The One That Is Very Long'
 date: 2023-11-30
 image: './src/assets/images/blog/Sprout1.jpg'
+tags: 'Cape Wrath Ultra'
 ---
 
 **Important**: As of version 2.0, the demos featured here are all directly built in the starter.

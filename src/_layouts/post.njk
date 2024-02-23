@@ -16,7 +16,7 @@ schema: blog
       credit
     %}
       <!-- credit -->
-
+      <p class="credit feature | text-step-min-1">© {{ credit }}</p>
     {% endif %}  
 
     <p class="meta | cluster" style="--gutter: var(--space-xs-s)">
@@ -34,7 +34,7 @@ schema: blog
     </p>
 
     {{ content | safe }}
-    {% include 'components/edit-on.njk' %}
+
   </div>
 
   <!--  h-card infos: https://indieweb.org/authorship -->

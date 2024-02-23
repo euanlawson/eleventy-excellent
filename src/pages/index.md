@@ -8,6 +8,6 @@ blog:
   intro: "The latest four posts, but there are more..."
 ---
 
-## The Antidotum Front Page
+## Helping people who help people who use drugs and alcohol
 
 All you need to know. 

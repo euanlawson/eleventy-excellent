@@ -1,11 +1,10 @@
-email: hola@eyourmail.lol
-address: |-
-  Organization name
-  Your street
-  12345, city
-  Tel: +34 928231911
+email: euan@euanlawson.com
+address:
+  Greenmantle
+  Marthwaite
+  Sedbergh
+  Cumbria
+  LA10 5HT
 platforms:
-  github: 'https://github.com/madrilene/eleventy-excellent'
-  mastodon: 'https://front-end.social/@lene'
-  bluesky: 'https://bsky.app/profile/lenesaile.com'
-  kofi: 'https://ko-fi.com/lenesaile'
+  mastodon: 'https://bjgp.social/@euan'
+  bluesky: 'https://bsky.app/profile/euanlawson.com'

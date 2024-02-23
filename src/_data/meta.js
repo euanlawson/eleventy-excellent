@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Euan Lawson',
+  siteName: 'Antidotum',
   siteDescription:
-    'The personal website of Euan Lawson',
+    'A website for people who help people who use drugs and alcohol',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -26,9 +26,9 @@ module.exports = {
     'Visible content: Eleventy starter built around the CSS workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es', // alt text for default meta image
   blog: {
     // RSS feed
-    name: 'My Web Development Blog',
+    name: 'Antidotum',
     description:
-      'Tell the word what you are writing about in your blog. It will show up on feed readers.',
+      'Writing for people who help people who use drugs. Evidence-based. Opinionated.',
     // feed links are looped over in the head. You may add more to the array.
     feedLinks: [
       {

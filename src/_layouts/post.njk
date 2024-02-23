@@ -7,6 +7,18 @@ schema: blog
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
 
+    {% if image %}
+      <!-- image -->
+      {% eleventyImage image, alt or title, null, "eager", "feature" %}
+    {% endif %}
+  {%
+      if
+      credit
+    %}
+      <!-- credit -->
+
+    {% endif %}  
+
     <p class="meta | cluster" style="--gutter: var(--space-xs-s)">
       <!-- date -->
       {% set definedDate = date %} {% include "components/date.njk" %}
